@@ -3,6 +3,8 @@ title: ADA Template Website - ImportNumpyAsPd
 description: A template website for ADA
 show_downloads: True
 navigation:
+  - title: Data exploration
+    url: introduction
   - title: Home
     url: /
   - title: Example
