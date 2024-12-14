@@ -9,3 +9,7 @@ navigation:
     url: /
   - title: Example
     url: example
+markdown: kramdown
+kramdown:
+  input: GFM
+
