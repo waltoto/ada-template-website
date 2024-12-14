@@ -2,6 +2,10 @@ theme: jekyll-theme-minimal
 title: ADA Template Website - ImportNumpyAsPd
 description: A template website for ADA
 show_downloads: False
+
+exclude:
+  - README.md
+
 navigation:
   - title: Data exploration
     url: introduction
