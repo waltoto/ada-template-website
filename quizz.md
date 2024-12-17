@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Quiz: Who's Done the Impossible?
 
 Who do you think has played in 9 different languages throughout their career?
