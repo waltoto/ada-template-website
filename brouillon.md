@@ -8,7 +8,7 @@
     <input type="range" id="image-slider" min="0" max="2" value="0" style="width: 100%;">
 </div>
 
-<script src="test.js"></script>
+<script src="test2.js"></script>
 
 ## Anotherother try 
 
@@ -26,4 +26,4 @@
 </div>
 
 
-<script src="test2.js"></script>
+<script src="test.js"></script>
