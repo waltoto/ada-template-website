@@ -18,6 +18,9 @@ Who do you think has played in 9 different languages throughout their career?
 Click to reveal:  
 <details>
   <summary>Show Answer</summary>
+  
   **Correct Answer:** **c) Jackie Chan**  
-  Fun fact: Jackie Chan has acted in multiple languages, including Cantonese, Mandarin, English, Korean, Japanese, and more!  
+  Fun fact: Jackie Chan has acted in multiple languages, including Cantonese, Mandarin, English, Korean, Japanese, and more!
+  
 </details>
+
