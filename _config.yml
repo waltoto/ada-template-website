@@ -9,6 +9,8 @@ navigation:
     url: introduction
   - title: Example
     url: example
+  - titre: Quizz pour notre ami Thibault
+    url: quizz
 markdown: kramdown
 kramdown:
   input: GFM
