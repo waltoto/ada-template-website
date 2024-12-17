@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Quiz: Who's Done the Impossible?
+## Quiz: Who's Done the Impossible?
 
 Who do you think has played in 9 different languages throughout their career?
 
@@ -13,7 +13,7 @@ Who do you think has played in 9 different languages throughout their career?
 
 ---
 
-### Reveal the Answer
+#### Reveal the Answer
 
 Click to reveal:  
 <details>
